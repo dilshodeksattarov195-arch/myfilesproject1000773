@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenralculate",
+        "uuid": 7546799,
+        "checksum": "yjze94"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
